@@ -1,0 +1,8 @@
+[
+  "constructor(address)",
+  "event Added(uint64,address indexed,uint16,uint16)",
+  "function decimal() pure returns (uint8)",
+  "function getter() view returns (uint16)",
+  "function remove(uint256)",
+  "function setter(uint16,uint16,uint16)"
+]
